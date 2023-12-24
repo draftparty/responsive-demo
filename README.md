@@ -23,7 +23,7 @@ in the repo and this readme. If you have any questions, please ask.
 ### Font
 Monserrat - https://fonts.google.com/specimen/Montserrat
 - Header text is __Bold__
-- Bullet points is 
+- Bullet points is __Light__
 
 
 ### Colors
